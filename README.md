@@ -10,6 +10,8 @@ Dibuat dengan desain modern dan responsif menggunakan **HTML**, **CSS**, dan **J
 
 Beberapa tampilan dari website yang saya buat:
 
-![Preview 1]("canva/Desain Canva Amrina Rasyada.jpg")
-![Preview 2]("canva/Desain Canva Amrina Rasyada (1).jpg")
-![Preview 3]("canva/Desain Canva Amrina Rasyada (2).jpg")
+![Home Page](canva/home_amrina_rasyada.jpg)
+![About Me Page](canva/about_me_amrina_rasyada.jpg)
+![Skills Page](canva/skill_amrina_rasyada.jpg)
+![Works Page](canva/work_amrina_rasyada.jpg)
+![Contact Page](canva/contact_amrina_rasyada.jpg)
